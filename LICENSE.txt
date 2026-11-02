@@ -1,13 +1,38 @@
-All Rights Reserved License
+# PROPRIETARY LICENSE – ALL RIGHTS RESERVED
 
-Copyright (C) 2025 Taha Traidi
+**Copyright © 2025 Taha Traidi. All Rights Reserved.**
 
-This software and all its source files are the exclusive property of the author. No part of this code may be copied, distributed, modified, or used without express written permission from the author.
+This project, including but not limited to its source code, firmware, software, documentation, designs, and associated materials, is the exclusive intellectual property of **Taha Traidi** (the Author).
 
-Unauthorized use is strictly prohibited and may lead to legal action.
+## 1. Ownership
+All rights, title, and interest in and to this project and its original components remain exclusively with the Author. No ownership rights are transferred or granted through access to this repository.
 
-Author: Taha Traidi
-Date: 2025
-Email/Contact: [taha.traidi.tt@gmail.com]
+## 2. Restrictions
+Without prior explicit written permission from the Author, no individual or organization is permitted to:
 
-All rights reserved.
+- Copy, reproduce, or redistribute any part of this project.
+- Modify, adapt, translate, or create derivative works.
+- Use, incorporate, or commercially exploit the source code or associated materials.
+- Publish, sublicense, sell, or distribute any portion of this project.
+- Claim ownership or authorship of any part of this project.
+
+## 3. No License Granted
+Access to this repository does not constitute the granting of any license or permission, whether express or implied, to use, reproduce, modify, distribute, or otherwise exploit this project.
+
+Any permitted use requires prior written authorization from the Author and may be subject to additional licensing terms.
+
+## 4. Enforcement
+Any unauthorized use, reproduction, modification, or distribution of this project may constitute an infringement of the Author's intellectual property rights and may result in legal action.
+
+## 5. Contact and Permissions
+For licensing inquiries, commercial use, collaboration, or requests for permission, please contact the Author directly.
+
+**Author:** Taha Traidi  
+**Copyright:** © 2025 Taha Traidi  
+**Contact:** taha.traidi.tt@gmail.com
+
+---
+
+**ALL RIGHTS RESERVED.**
+
+Unauthorized use, reproduction, modification, or distribution is strictly prohibited.
