@@ -1,6 +1,7 @@
 # YAZ – Smart Diabetes Management Device
-<img width="800" height="800" alt="Premiumes schwarzes YAZ-Gerät mit Display" src="https://github.com/user-attachments/assets/a40e0eb4-8dca-4ea4-aa85-678d0bc0bcee" />
-
+<p align="center">
+<img width="600" height="600" alt="Premiumes schwarzes YAZ-Gerät mit Display" src="https://github.com/user-attachments/assets/a40e0eb4-8dca-4ea4-aa85-678d0bc0bcee" />
+</p>
 ## Overview
 
 YAZ is a smart diabetes management companion designed to help people with diabetes monitor their insulin pens, keep track of their injections, and maintain better control over their daily routine.
