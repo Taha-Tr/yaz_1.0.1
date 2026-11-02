@@ -1,8 +1,8 @@
 
 # YAZ – Smart Diabetes Management Device
 <p align="center">
-<img width="500" height="500" alt="Premiumes schwarzes YAZ-Gerät mit Display" src="https://github.com/user-attachments/assets/a40e0eb4-8dca-4ea4-aa85-678d0bc0bcee" />
-  <img width="380" height="500" alt="1740067317500" src="https://github.com/user-attachments/assets/12346eea-e90f-4f7e-a683-303e242187d3" />
+<img width="200" height="200" alt="Premiumes schwarzes YAZ-Gerät mit Display" src="https://github.com/user-attachments/assets/a40e0eb4-8dca-4ea4-aa85-678d0bc0bcee" />
+  <img width="180" height="200" alt="1740067317500" src="https://github.com/user-attachments/assets/12346eea-e90f-4f7e-a683-303e242187d3" />
 </p>
 ## Overview
 
